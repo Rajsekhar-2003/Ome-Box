@@ -1,8 +1,8 @@
-# 📦 Omebox – Simple, Secure Text & File Sharing
+# 📦 OmeBox – Free File & Text Sharing Without Login
 
-**Omebox – Simple, Secure Text & File Sharing Anywhere. Instantly.**
+**Simple, Secure & Instant Text and File Sharing. No Signup. No Tracking.**
 
-[Omebox.com](https://omebox.com) | [Contact Founder](mailto:maityrajsekhar210@gmail.com)
+[🌐 omebox.com](https://omebox.com) • [Contact Founder](mailto:maityrajsekhar210@gmail.com)
 
 ![Monthly Views](https://img.shields.io/badge/Monthly%20Views-200k-brightgreen)
 ![Countries](https://img.shields.io/badge/Countries-38+-blue)
@@ -11,103 +11,95 @@
 
 ---
 
-## 🚀 Why Create Omebox?
+## 🚀 Why OmeBox?
 
-Omebox was built because **sharing files and text online should not require login, phone numbers, or tracking.**  
+OmeBox was created because **sharing files and text online should be frictionless and private** — without accounts, phone numbers, or data tracking.
 
-Founder **Rajsekhar Maity** saw a problem everywhere:
-- 🤯 WhatsApp compresses files
-- 📧 Email has size limits
-- ☁️ Cloud storage asks for your personal data
+Founder **Rajsekhar Maity** built it as a better alternative to WhatsApp compression, email size limits, and invasive cloud services.
 
-> *“I wanted a link. That’s it. No signup. No spam. Just share.”*
+> “I wanted a link. That’s it. No signup. No spam. Just share.”
 
-So he built **Omebox** — a fast, private, and secure way to share anything instantly.
+**OmeBox** gives you instant short links (`omebox.com/6digitcode`) for text or files with automatic expiration for privacy.
 
 ---
 
-## 📊 Omebox by the Numbers
+## ✨ Key Features
 
-| Metric               | Value                       |
-|----------------------|-----------------------------|
-| Monthly Page Views   | **200,000+**                |
-| Countries Served     | **38+**                     |
-| Top 5 Countries      | 🇮🇳 India<br>🇺🇸 United States<br>🇨🇦 Canada<br>🇫🇷 France<br>🇿🇦 South Africa |
-
----
-
-## ❓ Why Use Omebox?
-
-- ✅ **No Login** – No accounts, no email, no phone number.
-- ✅ **No Tracking** – We don't collect personal data.
-- ✅ **Instant Links** – Paste text or upload a file → get a short URL (e.g., `omebox.com/6digitcode`).
-- ✅ **Auto-Expiring** – Privacy by default (links expire automatically).
-- ✅ **Cross-Platform** – Works on Android, iPhone, PC, Mac.
-- ✅ **QR Codes** – Scan and share instantly to mobile.
+- ✅ **No Login Required** — Share without accounts or email
+- ✅ **Zero Tracking** — No personal data collected
+- ✅ **Instant Short Links** — Paste text or upload files in seconds
+- ✅ **Auto-Expiring Links** — Privacy by default
+- ✅ **QR Codes** — Easy mobile sharing
+- ✅ **Cross-Platform** — Works perfectly on Android, iPhone, PC & Mac
+- ✅ **Custom Short URLs** — Make your links memorable
+- 🔐 **Encrypted Transfers** — TLS + AES encryption
 
 ---
 
-## ⚡ Advantages of Omebox
+## 📊 OmeBox by the Numbers
 
-| Feature                | Omebox | WeTransfer | Pastebin | Google Drive |
-|------------------------|--------|------------|----------|---------------|
-| No Login Required      | ✅ Yes | ❌ No      | ❌ No    | ❌ No         |
-| Auto-Expiring Links    | ✅ Yes | ❌ No      | ❌ No    | ❌ No         |
-| No Tracking / No Phone | ✅ Yes | ❌ No      | ❌ No    | ❌ No         |
-| Custom Short URL       | ✅ Yes | ❌ No      | ✅ Yes   | ❌ No         |
-| QR Code for Sharing    | ✅ Yes | ❌ No      | ❌ No    | ❌ No         |
+| Metric              | Value                  |
+|---------------------|------------------------|
+| Monthly Page Views  | **200,000+**           |
+| Countries Served    | **38+**                |
+| Top Countries       | India, USA, Canada, France, South Africa |
 
-### Key Advantages:
-1. **Privacy First** – We never store files permanently.
-2. **Frictionless** – Share in seconds, not minutes.
-3. **Truly Cross-Platform** – PC → Mobile in one click.
-4. **Encrypted Transfer** – Modern encryption for every share.
-5. **No Spam** – No signup = no marketing emails.
+---
+
+## ⚡ Comparison
+
+| Feature                  | OmeBox     | WeTransfer | Pastebin   | Google Drive |
+|--------------------------|------------|------------|------------|--------------|
+| No Login Required        | ✅ Yes     | ❌ No      | ❌ No      | ❌ No        |
+| Auto-Expiring Links      | ✅ Yes     | ❌ No      | ❌ No      | ❌ No        |
+| No Tracking / No Phone   | ✅ Yes     | ❌ No      | ❌ No      | ❌ No        |
+| Custom Short URL         | ✅ Yes     | ❌ No      | ✅ Yes     | ❌ No        |
+| QR Code Sharing          | ✅ Yes     | ❌ No      | ❌ No      | ❌ No        |
 
 ---
 
 ## 📱 Common Use Cases
 
-| Use Case | How Omebox Helps |
-|----------|------------------|
-| 📱 Send files from PC to mobile instantly | Upload → scan QR code → done |
-| 📸 Share screenshots with teammates | One link. No Slack login required. |
-| 🔄 Transfer documents between Android & iPhone | Works across both ecosystems |
-| 👥 Group project sharing | Anyone can download without an account |
-| 💻 Share code snippets instantly | Paste text → share link in chat |
+- **PC → Mobile Transfer**: Upload on PC → Scan QR code on phone
+- **Team Screenshots & Docs**: Share without Slack/Teams login
+- **Cross-Platform Files**: Android ↔ iPhone
+- **Code & Text Snippets**: Instant paste & share
+- **Group Projects**: Recipients don’t need accounts
 
 ---
 
-## 🔐 How We Protect Your Privacy
+## 🔐 Privacy & Security
 
-| Feature | What It Means |
-|---------|----------------|
-| 🗑️ Auto-Expiring Links | Files never stored permanently. Links expire automatically. |
-| 🔍 No Tracking | We collect **no personal data** — no emails, no phone numbers, no IP logging. |
-| 🔐 Encrypted Transfer | All transfers secured with modern encryption (TLS + AES). |
-| 🚫 No Third-Party Cookies | Zero tracking scripts. Zero analytics spyware. |
+- 🗑️ **Auto-deletion** — Files are never stored permanently
+- 🔍 **No IP logging** or personal data collection
+- 🔐 **Modern Encryption** (TLS + AES)
+- 🚫 **No third-party cookies** or analytics trackers
 
 ---
 
 ## 🧠 Our Mission
 
-> *“Sharing should be instant, private, and universal. Omebox removes barriers so anyone can share anything — securely.”*
+> Sharing should be instant, private, and universal. OmeBox removes all barriers so anyone can share anything securely.
 
 ---
 
-## 👨‍💻 About Founder
+## 👨‍💻 About the Founder
 
 **Rajsekhar Maity**  
-*Lead Developer & Founder of Omebox*
+*Lead Developer & Founder of OmeBox*
 
-> Passionate about privacy-first tools. Built Omebox because he wanted a way to share files without surrendering personal data.
+Passionate about building **privacy-first tools**.  
 
-📧 **Contact:** [maityrajsekhar210@gmail.com](mailto:maityrajsekhar210@gmail.com)
+📧 **Contact**: [maityrajsekhar210@gmail.com](mailto:maityrajsekhar210@gmail.com)
 
 ---
 
-## 🌍 Join 200k+ Monthly Users from 38+ Countries
+## 🌍 Try OmeBox Now
 
-👉 **[Try Omebox Now →](https://omebox.com)** 👈
+👉 **[Start Sharing Instantly →](https://omebox.com)** 👈
 
-*No login. No tracking. Just sharing.*
+*No login. No tracking. Just simple, secure sharing.*
+
+---
+
+**Keywords**: free file sharing without login, secure text sharing, anonymous file upload, temporary file sharing, online notepad, instant file transfer, privacy focused sharing tool
